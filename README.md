@@ -1,0 +1,1 @@
+Modification of ProjectTako's PartyBuffs addon (https://github.com/ProjectTako/ffxi-addons/tree/master/partybuffs) tweaked to show one's own buffs in addition to the party's.
